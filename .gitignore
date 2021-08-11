@@ -1,6 +1,4 @@
-.idea/
 node_modules
-
-.vscode
-.idea
+.idea/
+target/
 .DS_Store
